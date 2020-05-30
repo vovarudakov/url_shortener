@@ -1,6 +1,6 @@
 {
-    "port": 3001,
+    "port": 80,
     "mongoUri": "mongodb+srv://vova:GIqbzH0nizAdQwdO@cluster0-t7jvw.mongodb.net/app?retryWrites=true&w=majority",
     "jwtSecret": "secret string",
-    "baseUrl": "http://localhost:3001"
+    "baseUrl": "http://peaceful-darwin-b387a8.netlify.app"
 }
